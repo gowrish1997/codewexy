@@ -44,7 +44,7 @@ const About = () => {
     <Link to='/'><button style={style.button}>HOME</button></Link>
     <Link to='/headandtail'><button style={style.button2}>Head and tail</button></Link>
     <div style={style.aboutpage}>
-     We Are Offering All Kinds of IT Solutions Services
+     We Are Offering All Kinds of IT Solutions Services all can get that is freeonluy
     </div>
     </div> 
   )
